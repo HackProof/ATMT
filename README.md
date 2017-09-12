@@ -18,6 +18,7 @@ Security Analysis and Evaluation Laboratory
 
 - Minseok Choi
 - [Wonbin Choi](https://github.com/bindon)
+
 With Professor [Dr. Seungjoo (Gabriel) Kim](http://skim.name)
 
 ## Links
